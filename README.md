@@ -1,2 +1,2 @@
 # R-Self-Practice
-# Practicing different functionalities and flow of R Programming
+Practicing different functionalities and flow of R Programming
